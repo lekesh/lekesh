@@ -13,14 +13,13 @@
 
     "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
-- 👨‍💻 All of my projects are available at [https://github.com/lekesh](https://github.com/lekesh)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/lekesh)
 
 - 💬 Ask me about **DBMS and Data viz.**
 
 - 📫 How to reach me **lekeshkumar2000@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEnJE5vx94/iGGwoMatXwGusWKOglPF3w/view?utm_content=DAEnJE5vx94&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEnJE5vx94/iGGwoMatXwGusWKOglPF3w/view?utm_content=DAEnJE5vx94&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
+-  📄 Find my resume [here](https://www.canva.com/design/DAEnJE5vx94/iGGwoMatXwGusWKOglPF3w/view?utm_content=DAEnJE5vx94&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - ⚡ Fun fact **I am a fast learner**
 
 <h3 align="left">Connect with me:</h3>
