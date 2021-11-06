@@ -25,19 +25,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/lekesh_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lekesh_" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="lekesh_" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/lekeshkumar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekeshkumar" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lekeshkumar" height="30" width="40" />
     </a>
     <a href="https://kaggle.com/lekeshkumar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lekeshkumar" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="lekeshkumar" height="30" width="40" />
     </a>
     <a href="https://instagram.com/lekesh_15" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lekesh_15" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="lekesh_15" height="30" width="40" />
     </a>
     <a href="https://medium.com/@lekeshkumar2000/list/reading-list" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lekeshkumar2000/list/reading-list" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@lekeshkumar2000/list/reading-list" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/lekesh" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lekesh" height="30" width="40" />
