@@ -13,7 +13,7 @@
 
     "When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/lekesh)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/lekesh) (will update soon 🙂)
 
 - 💬 Ask me about **DBMS and Data viz.**
 
