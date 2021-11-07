@@ -20,7 +20,7 @@
 - 📫 How to reach me **lekeshkumar2000@gmail.com**
 
 -  📄 Find my resume [here](https://www.canva.com/design/DAEnJE5vx94/iGGwoMatXwGusWKOglPF3w/view?utm_content=DAEnJE5vx94&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-- ⚡ Fun fact **I am a fast learner**
+- ⚡ Fun fact **I am studying Mechanical Engineering and aspire to work with data 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
