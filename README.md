@@ -55,12 +55,9 @@
     <a href="https://airflow.apache.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache_airflow" width="40" height="40"/> 
     </a> 
-    <a href="https://aws.amazon.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.blender.org/" target="_blank"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-    </a> 
+    <a href="https://cloud.google.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    </a>     
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -73,9 +70,12 @@
     <a href="https://www.docker.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a> 
-    <a href="https://cloud.google.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    <a href="https://aws.amazon.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
     </a> 
+    <a href="https://www.blender.org/" target="_blank"> 
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     </a> 
