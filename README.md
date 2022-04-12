@@ -49,6 +49,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://beam.apache.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" alt="apache_beam" width="40" height="40"/> 
+    </a>
     <a href="https://airflow.apache.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache_airflow" width="40" height="40"/> 
     </a> 
