@@ -49,6 +49,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://airflow.apache.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache_airflow" width="40" height="40"/> 
+    </a> 
     <a href="https://aws.amazon.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
     </a> 
