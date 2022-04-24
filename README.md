@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Architecture, Data Warehousing and Monitoring**
 
-- 📫 How to reach me **lekeshkumar2000@gmail.com**
+- 📫 Reach me @**lekeshkumar2000@gmail.com**
 
 -  📄 Find my resume [here](https://www.canva.com/design/DAEnJE5vx94/iGGwoMatXwGusWKOglPF3w/view?utm_content=DAEnJE5vx94&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - ⚡ Fun fact **I am studying Mechanical Engineering and aspire to work with data 😭**
