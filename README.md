@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/lekesh) (will update soon 🙂)
 
-- 💬 Ask me about **Cloud Architecture**
+- 💬 Ask me about **Data Architecture, Data Warehousing and Monitoring**
 
 - 📫 How to reach me **lekeshkumar2000@gmail.com**
 
