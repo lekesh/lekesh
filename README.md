@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekesh&label=Profile%20views&color=0e75b6&style=flat" alt="lekesh" /> </p>
 
-- 🔭 I’m currently working on [ETL pipeline - Spotify](https://github.com/lekesh/SpotifyDemo)
+- Moto: Discipline > Motivation
 
 - 🌱 I’m currently learning **Web Scraping, APIs and Cloud Service Tools (GCP and AWS)**
 
