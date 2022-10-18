@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/lekesh) (will update soon 🙂)
 
-- 💬 Ask me about **Data Architecture, Data Warehousing and Monitoring**
+- 💬 Ask me about **Event-Driven Architectures and ELT/ETL Pipelines**
 
 - 📫 Reach me @**lekeshkumar2000@gmail.com**
 
