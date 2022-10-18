@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekesh Kumar</h1>
-<h3 align="center">Passionate about working with data.</h3>
+<h3 align="center">Passionate about working with data tools and applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekesh&label=Profile%20views&color=0e75b6&style=flat" alt="lekesh" /> </p>
 
